@@ -10,10 +10,10 @@
 //-----------------
 
 //Cardinal Color Variables
-$cardinal-red: #000082;
-$dark-red: #000082; //Link Color
-$cardinal-light: #c83737; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
-$cardinal-bg: #e9afaf; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
+$cardinal-red: #A3DBE8;
+$dark-red: #A3DBE8; //Link Color
+$cardinal-light: #4599C3; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
+$cardinal-bg: #4599C3; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
 
 //Beige Color Variables
 $beige: #9d9573;
@@ -182,12 +182,12 @@ $footer_margin: ($baseline/4) 0;
 //-----------------
 //  CSS BG Images
 //-----------------
-$homepage-bg-image: '../themes/stanford/images/stanford-pano.jpg';
+$homepage-bg-image: '../themes/stanford/images/applied_pano.jpg';
 
 $login-banner-image: none;
 $register-banner-image: none;
 
-$video-thumb-url: '../themes/stanford/images/stanford-video-thumb.png';
+$video-thumb-url: '../themes/stanford/images/applied-logo.png';
 
 //-----------------
 //  Mixin Styles
